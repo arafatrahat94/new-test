@@ -60,4 +60,10 @@
         grid-template-columns: repeat(1, 1fr);
         grid-row-gap: 26px;
     }
+    /* top course section */
+    .courses{
+        flex-direction: column;
+        justify-content: center;
+        align-items: center;
+    }
 }
